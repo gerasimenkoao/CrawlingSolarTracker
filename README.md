@@ -8,8 +8,8 @@ Its need only few components:
 some printed parts or metal mounts 4 motor.
 
 Making the system a piece of cake:
-1. Load sketch to digispark.
-2. Wiring components as on schematic.
+1. Load sketch Tracker.ino to digispark.
+2. Wiring components as on Schematic.jpg
 3. Mount it on solar panel.
 (Printed parts must be from a white plastic!!!)
 
